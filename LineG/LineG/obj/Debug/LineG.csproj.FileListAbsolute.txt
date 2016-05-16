@@ -1,0 +1,27 @@
+c:\users\ф\documents\visual studio 2013\Projects\LineG\LineG\bin\Debug\LineG.exe.config
+c:\users\ф\documents\visual studio 2013\Projects\LineG\LineG\bin\Debug\LineG.exe
+c:\users\ф\documents\visual studio 2013\Projects\LineG\LineG\bin\Debug\LineG.pdb
+c:\users\ф\documents\visual studio 2013\Projects\LineG\LineG\obj\Debug\LineG.Form1.resources
+c:\users\ф\documents\visual studio 2013\Projects\LineG\LineG\obj\Debug\LineG.Properties.Resources.resources
+c:\users\ф\documents\visual studio 2013\Projects\LineG\LineG\obj\Debug\LineG.csproj.GenerateResource.Cache
+c:\users\ф\documents\visual studio 2013\Projects\LineG\LineG\obj\Debug\LineG.exe
+c:\users\ф\documents\visual studio 2013\Projects\LineG\LineG\obj\Debug\LineG.pdb
+C:\Users\ф\documents\visual studio 2013\Projects\LineG\LineG\obj\Debug\LineG.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Documents\LineG\LineG\bin\Debug\LineG.exe.config
+C:\Users\Павел\Documents\LineG\LineG\obj\Debug\LineG.exe
+C:\Users\Павел\Documents\LineG\LineG\obj\Debug\LineG.pdb
+C:\Users\Павел\Documents\LineG\LineG\obj\Debug\LineG.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Documents\LineG\LineG\obj\Debug\LineG.Form1.resources
+C:\Users\Павел\Documents\LineG\LineG\obj\Debug\LineG.Properties.Resources.resources
+C:\Users\Павел\Documents\LineG\LineG\obj\Debug\LineG.csproj.GenerateResource.Cache
+C:\Users\Павел\Downloads\LineG\LineG\bin\Debug\LineG.exe.config
+C:\Users\Павел\Downloads\LineG\LineG\obj\Debug\LineG.exe
+C:\Users\Павел\Downloads\LineG\LineG\obj\Debug\LineG.pdb
+C:\Users\Павел\Downloads\LineG\LineG\obj\Debug\LineG.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Downloads\LineG\LineG\obj\Debug\LineG.Form1.resources
+C:\Users\Павел\Downloads\LineG\LineG\obj\Debug\LineG.Properties.Resources.resources
+C:\Users\Павел\Downloads\LineG\LineG\obj\Debug\LineG.csproj.GenerateResource.Cache
+C:\Users\Павел\Downloads\LineG\LineG\bin\Debug\LineG.exe
+C:\Users\Павел\Downloads\LineG\LineG\bin\Debug\LineG.pdb
+C:\Users\Павел\Documents\LineG\LineG\bin\Debug\LineG.exe
+C:\Users\Павел\Documents\LineG\LineG\bin\Debug\LineG.pdb

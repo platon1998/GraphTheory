@@ -1,0 +1,8 @@
+C:\Users\ф\documents\visual studio 2013\Projects\LineG\LineG\bin\Release\LineG.exe.config
+C:\Users\ф\documents\visual studio 2013\Projects\LineG\LineG\bin\Release\LineG.exe
+C:\Users\ф\documents\visual studio 2013\Projects\LineG\LineG\bin\Release\LineG.pdb
+C:\Users\ф\documents\visual studio 2013\Projects\LineG\LineG\obj\Release\LineG.Form1.resources
+C:\Users\ф\documents\visual studio 2013\Projects\LineG\LineG\obj\Release\LineG.Properties.Resources.resources
+C:\Users\ф\documents\visual studio 2013\Projects\LineG\LineG\obj\Release\LineG.csproj.GenerateResource.Cache
+C:\Users\ф\documents\visual studio 2013\Projects\LineG\LineG\obj\Release\LineG.exe
+C:\Users\ф\documents\visual studio 2013\Projects\LineG\LineG\obj\Release\LineG.pdb
